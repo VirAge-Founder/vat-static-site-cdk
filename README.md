@@ -1,0 +1,1 @@
+# vat-static-site-cdk
